@@ -1,0 +1,6 @@
+{
+  "name": "Kütüphane Masa Doluluk & Takip Sistemi",
+  "description": "Çevrimdışı ve yerel ağda çalışan kütüphane masa doluluk, rezervasyon, kullanıcı atama ve mola süre takip paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
